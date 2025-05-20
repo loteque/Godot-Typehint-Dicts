@@ -1,7 +1,16 @@
 [gd_resource type="Resource" script_class="Stats" load_steps=2 format=3 uid="uid://c278uomgkw0jj"]
 
-[ext_resource type="Script" path="res://stats/stats.gd" id="1_waj3p"]
+[ext_resource type="Script" uid="uid://bdtichoded2tq" path="res://stats/stats.gd" id="1_waj3p"]
 
 [resource]
 resource_local_to_scene = true
 script = ExtResource("1_waj3p")
+stats_type = 0
+CHARACTER/ACCELERATION = Vector2(0, 0)
+CHARACTER/AIMING_SPEED = 0.0
+CHARACTER/DECELERATION = Vector2(0, 0)
+CHARACTER/HEALTH = 0.0
+CHARACTER/HYDRODYNAMICS = Vector2(0, 0)
+CHARACTER/MOVE_SPEED = Vector2(0, 0)
+CHARACTER/PICKUP_MAGNETIC = 0.0
+CHARACTER/STEERING_SPEED = 0.0

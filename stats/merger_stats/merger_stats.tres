@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="MergerStats" load_steps=2 format=3 uid="uid://di6xqng8brhn1"]
 
-[ext_resource type="Script" path="res://stats/merger_stats/merger_stats.gd" id="1_ry3co"]
+[ext_resource type="Script" uid="uid://c2y1alguoy2ng" path="res://stats/merger_stats/merger_stats.gd" id="1_ry3co"]
 
 [resource]
 script = ExtResource("1_ry3co")
